@@ -1,14 +1,9 @@
 # sistema-basho
 <h1 align="center">Hi 👋, I'm Basho Jairo</h1>
 
-
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 🌱 I’m currently learning **WEB Development Full-Stack**
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-
+<img align="right" alt="Coding" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
